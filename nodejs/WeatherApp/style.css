@@ -28,8 +28,8 @@
       }
 
       .box {
-        width: 20vw;
-        height: 60vh;
+        width: 35%;
+        height: 75vh;
         border-radius: 0.5rem;
         box-shadow: 0 0.2rem 3rem rgba(0, 0, 0, 0.2);
         background: #a5bbdd;
